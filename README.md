@@ -7,6 +7,11 @@ On top of our datasets, we also provide the subsets of the WN_Hyper, WN_Coord, B
 Please, read the attached paper (Santus et al., 2016 - LREC) for more information.
 
 
+
+
+
+
 Acknowledgements
+
 We are very grateful to Julie Weeds for having helped us, recalculating the results of Weeds et al. (2014) models also for our subsets of their datasets.
 Thanks also to Aristotelis Kostopoulos for the precious suggestions.
